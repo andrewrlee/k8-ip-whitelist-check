@@ -1,4 +1,6 @@
-# A tool to display differences between two sets of kubernetes nginx ip whitelists
+# Kubernete nginx whitelist diff tool
+
+A tool to display differences between two sets of kubernetes nginx ip whitelists
 
 For instance to compare ip whitelists before and after a deploy when using helm:
 
