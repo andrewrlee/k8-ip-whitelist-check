@@ -1,0 +1,16 @@
+{
+  "name": "k8-ip-whitelist-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "compare-lists": "^1.0.9",
+    "yaml": "^1.7.2"
+  },
+  "devDependencies": {}
+}
