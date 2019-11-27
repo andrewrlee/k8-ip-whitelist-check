@@ -52,7 +52,7 @@ whitelist_groups:
     host1: 111.22.33.49/32
 ```
 
-Would produce:
+Which would produce:
 ```js
 { removed:
    [ '111.22.33.44/32      (not known/not known)',
